@@ -3,4 +3,4 @@ The file for practicing GitHub
 Japanese caracters turn into garbage on GitHub application... :<
 Changed lines are clarified with colored. It's very useful!
 
-‚í[‚í[
+TESTTESTTEST
