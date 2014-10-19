@@ -1,3 +1,5 @@
-GitHub練習用のファイル
+The file for practicing GitHub
 
-更新＆コミット！！
+Japanese caracters turn into garbage on GitHub application... :<
+
+わーわー
