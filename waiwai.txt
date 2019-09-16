@@ -4,3 +4,5 @@ Japanese caracters turn into garbage on GitHub application... :<
 Changed lines are clarified with colored. It's very useful!
 
 TESTTESTTEST2
+
+edited on git website
